@@ -8,8 +8,6 @@ I am Ilyosbek and I am a Flutter Developer</br></br>
 3.Learning NestJS and creating at least two fullstack mobile apps!</br>
 4.Flutter Web, Desktop, Mac, Linux, Flame Engine.
 
-Last but not least: becoming a better human:)
-
 
 
 
