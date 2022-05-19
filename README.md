@@ -1,6 +1,6 @@
 
 <h1>Hi there 👋</h1> </br>
-I am Ilyosbek and I am a Flutter Developer</br></br>
+<h3>I am Ilyosbek and I am a Flutter Developer</h3></br></br>
 
 <h3>My tech stack:</h3>
 - Mobile : Android Native, Flutter;</br>
