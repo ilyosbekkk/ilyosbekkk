@@ -6,7 +6,8 @@ I am Ilyosbek and I am a Flutter Developer</br></br>
 - Mobile : Android Native, Flutter</br>
 - Web-backend : NestJS</br>
 - Database : PostgreSQL</br>
-- Languages: Java, Dart, Typescript
+- Languages: Java, Dart, Typescript</br>
+- Others: REST,GraphQL,gRPC.
 
 
 <h3>Currently I am </h3>
