@@ -1,6 +1,14 @@
 
 <h1>Hi there 👋</h1> </br>
 I am Ilyosbek and I am a Flutter Developer</br></br>
+
+<h3>My tech stack:</h3>
+- Mobile : Android Native, Flutter</br>
+- Web-backend : NestJS</br>
+- Database : PostgreSQL</br>
+- Languages: Java, Dart, Typescript
+
+
 <h3>Currently I am </h3>
 1.Completing all the algo-expert coding problems (160 questions)! (https://www.algoexpert.io/questions) (progress: 11/160) </br>
 
