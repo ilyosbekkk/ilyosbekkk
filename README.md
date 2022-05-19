@@ -6,7 +6,7 @@ I am Ilyosbek and I am a Flutter Developer</br></br>
 
 2.Mastering all the design patterns and implementing them to real world applications!</br>
 3.Learning NestJS and creating at least two fullstack mobile apps!</br>
-4.Flutter Web, Desktop, Mac, Linux, Flame Engine.
+4.Trying to build game using Flutter Flame Engine.
 
 
 
