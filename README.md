@@ -4,8 +4,6 @@
 
 <h3>My tech stack:</h3>
 - Mobile : Android Native, Flutter;</br>
-- Web-backend : NestJS;</br>
-- Database : PostgreSQL;</br>
 - Languages: Java, Dart, Typescript;</br>
 - Others: REST, GraphQL, gRPC.
 
