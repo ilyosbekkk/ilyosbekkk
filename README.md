@@ -5,7 +5,7 @@
 <h3>My tech stack:</h3>
 - Mobile : Android Native, Flutter;</br>
 - Languages: Java, Dart, Typescript;</br>
-- Others: REST, GraphQL, gRPC.
+- Others: REST, GraphQL, gRPC, Firestore, Firebase Cloud Functions and many more...
 
 
 <h3>Currently I am </h3>
